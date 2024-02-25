@@ -15,17 +15,17 @@ This mini-project is designed for the Cloud Computing subject, focusing on deplo
 - **Navigate to the EC2 service.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step0.png)
 - **Create a new EC2 instance for hosting your CV Builder website.**
-- **Under EC2 > instances > Launch an instance**
+- **Under ```bashEC2 > instances > Launch``` an instance**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step1.png)
-- **Select OS as Amazon linux**
+- **Select OS as Amazon linux.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step2.png)
-- **Create Key pair for assesing VM**
+- **Create Key pair for assesing VM.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step3.png)
-- **Select .ppk extension for puTTY and .pem for openSSH as you like**
+- **Select ```.ppk``` extension for puTTY and ```.pem``` for openSSH as you like.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step4.png)
-- **Configure the storage**
+- **Configure the storage.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step5.png)
-- **Boom Launch the instance**
+- **Boom Launch the instance.**
 
 
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step6.png)
@@ -37,15 +37,15 @@ This mini-project is designed for the Cloud Computing subject, focusing on deplo
 
 
 ### 2. Connecting and Configuring EC2 instance
-- **Go to running instances Dashboard**
+- **Go to running instances Dashboard.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/1f73774d51372f19698bc5ec34160374cf0e473c/Step2-Connecting%26Configering%20%20instance/step0.png)
 
 - **I am connecting directly using console if you want to connect your instance you can connect it using puTTY or openSSH!**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/1f73774d51372f19698bc5ec34160374cf0e473c/Step2-Connecting%26Configering%20%20instance/step1.png)
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/1f73774d51372f19698bc5ec34160374cf0e473c/Step2-Connecting%26Configering%20%20instance/step2.png)
 
-- **Granting admin previlage using sudo command**
-**Run the sudo su Command**
+- **Granting admin previlage using sudo command.**
+**Run the sudo su Command.**
 
   **Use the following command to switch to the root user and gain admin privileges:**
 
@@ -97,18 +97,12 @@ systemctl status httpd
 - **For accessing your cloud hosted website go to EC2 instance Dashboard and select your instance.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/1f73774d51372f19698bc5ec34160374cf0e473c/Step2-Connecting%26Configering%20%20instance/step0.png)
 
-- **After  
+- **After Selecting your instance go to your public IP address of EC2 instance**
+  **In my case my public IP is ```bash 13.53.200.33```***
+  **Open it in any browser , BOOM your website is deployed in cloud! :).**
+![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/50f26ebda57bd7975ba05e2166af0454a986de6c/step3-final%20endpoint/endpoint.png)  
 
 
+NOTE ``|Stop the instance after you deployed succesfully,other wise after free trial limit exeded you wil be charged!|``
 
-
-
-  
-
-
-
-      
-
-
-
-Remember to enjoy the learning process and troubleshoot any challenges you encounter. Happy cloud adventures! 🚀✨
+Remember to enjoy the learning process and troubleshoot any challenges you encounter. Happy cloud adventures! 🚀✨!
