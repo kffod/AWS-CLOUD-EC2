@@ -15,7 +15,7 @@ This mini-project is designed for the Cloud Computing subject, focusing on deplo
 - **Navigate to the EC2 service.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step0.png)
 - **Create a new EC2 instance for hosting your CV Builder website.**
-- **Under `bashEC2 > instances > Launch` an instance**
+- **Under `EC2 > instances > Launch` an instance**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step1.png)
 - **Select OS as Amazon linux.**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step2.png)
