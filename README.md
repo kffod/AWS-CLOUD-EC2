@@ -32,7 +32,7 @@ This mini-project is designed for the Cloud Computing subject, focusing on deplo
 
 
 
-- **You will see the screen after your instance is succesfully launched!**
+- **You will see these screen after your instance is succesfully launched!**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step7.png)
 
 
