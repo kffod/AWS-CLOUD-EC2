@@ -26,7 +26,8 @@ This mini-project is designed for the Cloud Computing subject, focusing on deplo
 - Configure the storage
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step5.png)
 - Boom Launch the instance
-- 
+
+
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/b0e723dbe26aee23a4a2c205f7b593abda5e4532/Step1-creating%20instance/step6.png)
 
 
