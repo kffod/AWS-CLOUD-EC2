@@ -103,6 +103,6 @@ systemctl status httpd
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/50f26ebda57bd7975ba05e2166af0454a986de6c/step3-final%20endpoint/endpoint.png)  
 
 
-NOTE ``|Stop the instance after you deployed succesfully,other wise after free trial limit exeded you wil be charged!|``
+**NOTE: Stop the instance after you deploy successfully; otherwise, after the free trial limit is exceeded, you will be charged!**
 
 Remember to enjoy the learning process and troubleshoot any challenges you encounter. Happy cloud adventures! 🚀✨!
