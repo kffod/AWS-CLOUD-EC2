@@ -98,7 +98,7 @@ systemctl status httpd
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/1f73774d51372f19698bc5ec34160374cf0e473c/Step2-Connecting%26Configering%20%20instance/step0.png)
 
 - **After Selecting your instance go to your public IP address of EC2 instance**
-  **In my case my public IP is ```bash 13.53.200.33```***
+  **In my case my public IP is `13.53.200.33`***
   **Open it in any browser , BOOM your website is deployed in cloud! :).**
 ![setup](https://github.com/kffod/AWS-CLOUD-EC2/blob/50f26ebda57bd7975ba05e2166af0454a986de6c/step3-final%20endpoint/endpoint.png)  
 
